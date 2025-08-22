@@ -33,4 +33,4 @@
 #define RGB_MATRIX_LED_COUNT (69)
 
 /* Caps lock key LED Indicator */
-#define CAPS_LOCK_KEY 29
+#define CAPS_LOCK_LED_INDEX 29
